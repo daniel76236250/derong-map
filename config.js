@@ -1,4 +1,4 @@
 // 得榮少年單張投遞｜共用資料庫設定
 // 把 Google Apps Script 部署後得到的「網頁應用程式網址」貼在下面的引號中，例如：
 // window.DERONG_API = "https://script.google.com/macros/s/AKfycb.../exec";
-window.DERONG_API = "";
+window.DERONG_API = "https://script.google.com/macros/s/AKfycbzUSXfjiN9kA6Hc8atLVOcczC_-AUnwRivWPzL9kZNziWYk3z_3eFs9yOPomyB4kyPN/exec";
